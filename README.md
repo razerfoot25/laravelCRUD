@@ -1,2 +1,2 @@
 # laravelCRUD
-CRUD website using laravel
+CRUD database using laravel
